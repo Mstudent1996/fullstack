@@ -1,4 +1,4 @@
 # fullstack
 test fullstack
 
-Læring af fullstack
+Læring af GitHub
