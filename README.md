@@ -1,4 +1,6 @@
 # fullstack
 test fullstack
 
-Læring af GitHub
+Skoleprojekt for læring af GitHub samt gruppearbejde.
+
+Frontend kører med Reactjs og Nodejs. 
